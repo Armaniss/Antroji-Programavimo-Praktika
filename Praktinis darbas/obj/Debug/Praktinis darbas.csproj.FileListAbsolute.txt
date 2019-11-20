@@ -1,0 +1,22 @@
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\bin\Debug\Praktinis darbas.exe.config
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\bin\Debug\Praktinis darbas.exe
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\bin\Debug\Praktinis darbas.pdb
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis darbas.csprojAssemblyReference.cache
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.login.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.mdi_vartotojas.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.Properties.Resources.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis darbas.csproj.GenerateResource.cache
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis darbas.csproj.CoreCompileInputs.cache
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis darbas.exe
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis darbas.pdb
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.Prideti_Knyga.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.Knygu_Perziura.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.studentas_info.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.Perziureti_studentus.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.Isduoti_knygas.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.Knygu_grazinimas.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.Knygu_ataskaita.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.MDIParent1.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.St_Perziureti_Knyga.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.St_Pasiimti_Knyga.resources
+C:\Users\Armanis\source\repos\Praktinis darbas\Praktinis darbas\obj\Debug\Praktinis_darbas.St_Knygu_Grazinimas.resources
